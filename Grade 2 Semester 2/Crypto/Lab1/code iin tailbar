@@ -1,0 +1,20 @@
+caeser1:
+
+    getMode() - > encrypt || decrypt hiihiin garaas avah function
+
+    getMessage() -> garaas e || d hiih message iig avna
+
+    getKey() -> e || d hiih key iig garaas avna
+
+    getTranslatedMessage() -> mode 'd' bwal key sorog utgatai bolgono encrypt hiigdsen
+    ->  message-iin useg bolgonii ord() function-s irj baigaa int utgaas hasaj decrypt hiisne message garna
+    ->  herev e bwal ascii code deer key iin utgiig nemj encrypt hiine
+
+caeser2:
+    caeser_encrypt() -> realtext -iig ogogdson step utgaar nmegduulj encrypt hiij baigaa function
+    -> ingehdee realtext-iin temdeg bureer guine. Temdeg uppercase, eswel lowercase-d baigaag
+    -> uppercase, lowercase 2 massiviin alind baigaagaar ni medne.
+    -> tged massive-iin taarch baigaa index deer step iin utgaa ned 26-d uldegteltei huwaana.
+    -> uchir ni step utgaar nemehed 26 buyu tsagaan tolgoin hemjeenees hetreh ucir.
+    -> Suuld outText-iig butsaana.
+

@@ -1,0 +1,50 @@
+{
+  "C_Cpp.updateChannel": "Insiders",
+  "workbench.iconTheme": "material-icon-theme",
+  "glassit.alpha": 255,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "python.defaultInterpreterPath": "C:\\Users\\ThinkPad\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "python.linting.pylintArgs": ["--generate-members"],
+  "editor.fontSize": 13,
+  "editor.fontFamily": "‘Fira Code’, Consolas, ‘Courier New’, monospace",
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced"
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.env.windows": {},
+  "explorer.openEditors.visible": 0,
+  "editor.cursorBlinking": "smooth",
+  "explorer.sortOrder": "type",
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrap": "on",
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.defaultFormatter": null,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.renderWhitespace": "all",
+  "workbench.colorCustomizations": {
+    "editorWhitespace.foreground": "#3cc213"
+  },
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "zenMode.hideLineNumbers": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "window.menuBarVisibility": "compact",
+  "workbench.activityBar.visible": false
+  //   "vim.useCtrlKeys": false
+}
