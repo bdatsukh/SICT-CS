@@ -1,0 +1,2 @@
+C:\Users\ThinkPad\source\repos\Lab1Graphic\x64\Debug\Lab1Graphic.exe
+C:\Users\ThinkPad\source\repos\Lab1Graphic\x64\Debug\Lab1Graphic.pdb

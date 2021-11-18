@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\source\repos\lab12lab13\bin\Debug\lab12lab13.exe.config
+C:\Users\ThinkPad\source\repos\lab12lab13\bin\Debug\lab12lab13.exe
+C:\Users\ThinkPad\source\repos\lab12lab13\bin\Debug\lab12lab13.pdb
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.Form1.resources
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.exe
+C:\Users\ThinkPad\source\repos\lab12lab13\obj\Debug\lab12lab13.pdb

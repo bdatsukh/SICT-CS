@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\source\repos\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\ThinkPad\source\repos\Lab14\bin\Debug\Lab14.exe
+C:\Users\ThinkPad\source\repos\Lab14\bin\Debug\Lab14.pdb
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.Form2.resources
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.Form3.resources
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.exe
+C:\Users\ThinkPad\source\repos\Lab14\obj\Debug\Lab14.pdb

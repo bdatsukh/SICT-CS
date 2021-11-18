@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\source\repos\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\ThinkPad\source\repos\Lab7\bin\Debug\Lab7.exe
+C:\Users\ThinkPad\source\repos\Lab7\bin\Debug\Lab7.pdb
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.exe
+C:\Users\ThinkPad\source\repos\Lab7\obj\Debug\Lab7.pdb

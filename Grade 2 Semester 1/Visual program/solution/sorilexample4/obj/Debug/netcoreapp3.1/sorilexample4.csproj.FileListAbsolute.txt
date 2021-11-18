@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\sorilexample4\bin\Debug\netcoreapp3.1\sorilexample4.exe
+C:\Users\ThinkPad\source\repos\sorilexample4\bin\Debug\netcoreapp3.1\sorilexample4.deps.json
+C:\Users\ThinkPad\source\repos\sorilexample4\bin\Debug\netcoreapp3.1\sorilexample4.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\sorilexample4\bin\Debug\netcoreapp3.1\sorilexample4.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\sorilexample4\bin\Debug\netcoreapp3.1\sorilexample4.dll
+C:\Users\ThinkPad\source\repos\sorilexample4\bin\Debug\netcoreapp3.1\sorilexample4.pdb
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.dll
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.pdb
+C:\Users\ThinkPad\source\repos\sorilexample4\obj\Debug\netcoreapp3.1\sorilexample4.genruntimeconfig.cache

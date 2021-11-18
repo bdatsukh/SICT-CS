@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\ThinkPad\source\repos\Lab11\bin\Debug\Lab11.exe
+C:\Users\ThinkPad\source\repos\Lab11\bin\Debug\Lab11.pdb
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.exe
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.pdb
+C:\Users\ThinkPad\source\repos\Lab11\obj\Debug\Lab11.Form1.resources
