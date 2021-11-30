@@ -23,7 +23,7 @@ int fibonacciNumber(const int number)
 	static unsigned long first = 0;
 	static unsigned long second = 1;
 	
-	if(number == 0)
+	if(number == INITIALIZE)
 	{
 		counter = 0;
 		first = 1;
@@ -73,7 +73,7 @@ int primeNumber(const int number)
 	static unsigned int counter = 0;
 	static unsigned long primeNumber = 1;
 
-	if(number <= 0)
+	if(number <= INITIALIZE)
 	{
 		counter = 0;
 		primeNumber = 1;
@@ -136,7 +136,7 @@ int main(void)
 	getch();
 
 	fibonacciNumber(INITIALIZE);
-	primeNumber(INITIALIZE);	
+	primeNumber(INITIALIZE);
 
 	printf("-----------Parallel-----------\n");
 	while (TRUE)
@@ -159,7 +159,6 @@ int main(void)
 					checkFibonacci = fibonacciNumber(N);
 
 					sleep(TIME_OF_SLEEP);
-
 
 					if(checkFibonacci == EXIT_SUCCESS)
 						break;
@@ -200,7 +199,6 @@ int main(void)
 
 		sleep(TIME_OF_SLEEP);
 	}
-	
 
 	return EXIT_SUCCESS;
 }
