@@ -36,20 +36,20 @@ grad_b5 = sum(-2 * x5 * (y - y_pred)) / N
 """
 
 for i in range(epochs):
-    y_pred = round((b0 + b1*x1 + b2*x2 + b3*x3 + b4*x4 + b5*x5), 10)
-    e = y - y_pred
-    grad_b0 = round((-2 / N) * sum(e), 10)
-    grad_b2 = round((-2 / N) * sum(x2 * e), 10)
-    grad_b3 = round((-2 / N) * sum(x3 * e), 10)
-    grad_b4 = round((-2 / N) * sum(x4 * e), 10)
-    grad_b1 = round((-2 / N) * sum(x1 * e), 10)
-    grad_b5 = round((-2 / N) * sum(x5 * e), 10)
-    b0 = round(b0 - L * grad_b0, 10)
-    b1 = round(b1 - L * grad_b1, 10)
-    b2 = round(b2 - L * grad_b2, 10)
-    b3 = round(b3 - L * grad_b3, 10)
-    b4 = round(b4 - L * grad_b4, 10)
-    b5 = round(b5 - L * grad_b5, 10)
-    y = y_pred
+	y_pred = (b0 + b1*x1 + b2*x2 + b3*x3 + b4*x4 + b5*x5)
+	e = y - y_pred
+	grad_b0 = (-2 / N) * sum(e)
+	grad_b1 = (-2 / N) * sum(x1 * e)
+	grad_b2 = (-2 / N) * sum(x2 * e)
+	grad_b3 = (-2 / N) * sum(x3 * e)
+	grad_b4 = (-2 / N) * sum(x4 * e)
+	grad_b5 = (-2 / N) * sum(x5 * e)
+	b0 = b0 - L * grad_b0
+	b1 = b1 - L * grad_b1
+	b2 = b2 - L * grad_b2
+	b3 = b3 - L * grad_b3
+	b4 = b4 - L * grad_b4
+	b5 = b5 - L * grad_b5
+	y = y_pred
 
 print (b0, b1, b2, b3, b4, b5)

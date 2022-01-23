@@ -1,4 +1,4 @@
-﻿/*#include <iostream>
+﻿#include <iostream>
 #include <GL\freeglut.h>
 #include <GL\glut.h>
 
@@ -215,4 +215,4 @@ void Keyboard(unsigned char key, int x, int y) {
 		Display();
 		break;
 	}
-}*/
+}

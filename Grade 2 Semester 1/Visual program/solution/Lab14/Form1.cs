@@ -82,17 +82,17 @@ namespace Lab14
 
             if (listBox1.SelectedIndex < 0)
                 return;
+            
             try
-            {
-               
+            {   
                 socket.Connect(listBox1.Items[listBox1.SelectedIndex].ToString(), 1);
             }
             catch (SocketException)
             {
                 MessageBox.Show("Хосттой холбогдохгүй байна.");
+                return;
             }
             
-
             Form3 form3 = new Form3(socket);
             form3.Show();
         }
